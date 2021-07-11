@@ -7,6 +7,6 @@ The purpose of this analysis was to determine if there was a difference in paid 
 ![Vine Review Results](https://github.com/arelysrsd87/Amazon_Vine_Analysis/blob/main/Resources/Results.jpg)
 - There were 22 Vine reviews and 26, 987 non-Vine reviews.
 - There were 13 Vine reviews that were 5 stars and 14, 475 non-Vine reviews that were 5 stars.
-- The percentage for Vine 5 star reviews to total paid reviews was 59.09% and the percentage for unpaid 5 star reviews to total unpaid reviews was 53.63%.
+- The percentage for Vine 5-star reviews to total paid reviews was 59.09% and the percentage for unpaid 5-star reviews to total unpaid reviews was 53.63%.
 # Summary
-## The summary states whether or not there is bias, and the results support this statement 
+The ratio of Vine 5-star reviews to non-Vine 5-star reviews is 1:1, hence there is no positive bias towards Vine reviews. An additional test that could measure bias would be to filter results based on viewing reviews only for verified purchases. 
